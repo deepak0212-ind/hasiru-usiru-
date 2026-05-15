@@ -1,0 +1,13 @@
+{
+  "name": "Hasiru-Usiru Mapper",
+  "description": "A modern Indian urban sustainability app for mapping trees and identifying empty tree pits to reduce urban heat islands.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Environment Mapping",
+    "Citizen Science",
+    "AI Species Identification"
+  ]
+}
